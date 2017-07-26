@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">EvernoteJobProb</string>
+    <string name="notify_job">Cancel Jobs, then notify() so Job can finish</string>
+    <string name="schedule_job">Schedule Job</string>
+</resources>
