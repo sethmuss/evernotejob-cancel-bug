@@ -1,7 +1,7 @@
-#API 23: Cancel periodic job failure if job is running
+# API 23: Cancel periodic job failure if job is running
 When a periodic job is running, JobManager::cancelAll() does not prevent it from running in the future. 
 
-##Steps to reproduce
+## Steps to reproduce
 (Reproduced on physical device running API 23, and Nexus 5X emulator running API 23)
 
 1. Launch MainActivity
